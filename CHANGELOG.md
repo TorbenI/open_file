@@ -1,3 +1,5 @@
+## 3.0.4
+removed android permission
 ## 3.0.3
 * upgrade compileSdkVersion
 ## 3.0.2
